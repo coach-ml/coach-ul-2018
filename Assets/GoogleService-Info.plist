@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>783099083221-kaj2rgtvfgjnc7ebmtsqlcr1qnls6vhv.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.783099083221-kaj2rgtvfgjnc7ebmtsqlcr1qnls6vhv</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAI7aZF8j1FQhxPdkqIjpA86Y-YLqwVNZk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>783099083221</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.coach.CoachUploader</string>
+	<key>PROJECT_ID</key>
+	<string>coachuploader-ac4d7</string>
+	<key>STORAGE_BUCKET</key>
+	<string>coachuploader-ac4d7.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:783099083221:ios:273cd3590e542099a9e55c</string>
+	<key>DATABASE_URL</key>
+	<string>https://coachuploader-ac4d7.firebaseio.com</string>
+</dict>
+</plist>

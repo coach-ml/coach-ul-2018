@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "783099083221",
+    "firebase_url": "https://coachuploader-ac4d7.firebaseio.com",
+    "project_id": "coachuploader-ac4d7",
+    "storage_bucket": "coachuploader-ac4d7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:783099083221:android:79ac7b8d62e474caa9e55c",
+        "android_client_info": {
+          "package_name": "com.coach.CoachUploader"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "783099083221-pn2o2iu52r7b4cvjo106aa6k85imls3i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfo3_rzqIM5O9evSF656a66iAA7p_2lL4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "783099083221-pn2o2iu52r7b4cvjo106aa6k85imls3i.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "783099083221-kaj2rgtvfgjnc7ebmtsqlcr1qnls6vhv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.coach.CoachUploader"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
